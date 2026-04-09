@@ -1,0 +1,13 @@
+#과제 제출용 -3번째
+노량집 컵밥이 먹고싶은 날입니다.
+total 60
+drwxr-xr-x 1 YUHAN 197121     0 Apr  9 10:30 ./
+drwxr-xr-x 1 YUHAN 197121     0 Apr  9 09:15 ../
+drwxr-xr-x 1 YUHAN 197121     0 Apr  9 10:29 .git/
+-rw-r--r-- 1 YUHAN 197121  7788 Apr  9 09:12 .gitignore
+-rw-r--r-- 1 YUHAN 197121 35823 Apr  9 09:12 LICENSE
+-rw-r--r-- 1 YUHAN 197121   109 Apr  9 09:15 README.md
+-rw-r--r-- 1 YUHAN 197121   194 Apr  9 09:12 test.txt
+-rw-r--r-- 1 YUHAN 197121   466 Apr  9 10:27 test22.txt
+-rw-r--r-- 1 YUHAN 197121   512 Apr  9 10:29 test33.txt
+-rw-r--r-- 1 YUHAN 197121     0 Apr  9 10:30 test44.txt
